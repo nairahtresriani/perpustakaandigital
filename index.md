@@ -14,6 +14,6 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [The Wonderful of Wizard](ebook/the-wonderful-wizard-of-oz-l-frank-baum-1136.pdf) – Nairah (2026)
 11. [Treasure Island](ebook/treasure-island-robert-louis-stevenson-1137.pdf) – Nairah (2026)
 12. [Love and Other](ebook/love-and-other-stories-anton-chekhov-1144.pdf) – Nairah (2026)
-13. [Ringkasan UGC](ebook/Catatan UGC PATI.pdf) – Nairah (2026)
+13. [Ringkasan UGC](ebook/Catatan-UGC-PATI.pdf) – Nairah (2026)
 ---
 *Powered by GitHub Pages*
